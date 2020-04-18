@@ -29,8 +29,8 @@ public class SEIDENSTRASSE{
         m1.KanteEinfuegen("Pal","Kas", 61);
         m1.KanteEinfuegen("Kas","Pal", 61);
         
-        m1.KanteEinfuegen("Kas","Kuc", 9);
-        m1.KanteEinfuegen("Kuc","Kas", 9);
+        m1.KanteEinfuegen("Kas","Kuc", 19);
+        m1.KanteEinfuegen("Kuc","Kas", 19);
         
         m1.KanteEinfuegen("Kas","Dun", 33);
         m1.KanteEinfuegen("Dun","Kas", 33);
