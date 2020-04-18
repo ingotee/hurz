@@ -82,7 +82,7 @@ public class SEIDENSTRASSE{
         
         m1.KanteLoeschen("Anx", "Cha");
         m1.MatrixAusgeben();
-        System.out.println("Kante zwischen Anxi und Chang'an entfernt");
+        System.out.println("Kante zwischen Anxi und Chang'an wirklich entfernt");
         System.out.println();
         
         System.out.println("Weg von Palmyra nach Hangzhou ohne Kante zwischen Anxi und Chang'an ");
