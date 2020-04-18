@@ -91,6 +91,7 @@ public class SEIDENSTRASSE{
         //$ Ändern vor Abgabe
         System.out.println();
         m1.KanteAendern("Umm", "Pal", 42);
+        m1.KanteAendern("Cha", "Pek", 33);
        
         m1.MatrixAusgeben();
         
